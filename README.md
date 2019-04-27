@@ -1,4 +1,4 @@
-# Screen Time Crhome Extension
+# Screen Time Chrome Extension
 
 Displays your screen time with a nice chart.
 
