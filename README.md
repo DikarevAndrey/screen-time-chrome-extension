@@ -1,6 +1,6 @@
 # Screen Time Chrome Extension
 
-Displays your screen time with a nice chart.
+Displays your top-5 sites screen time with a nice chart.
 
 ![Extension example](/files/screen_time_example.png)
 
