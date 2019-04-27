@@ -1,7 +1,7 @@
 {
-  "name": "Web timer extension",
+  "name": "Screen time chrome extension",
   "version": "1.0",
-  "description": "Shows you screen time stats.",
+  "description": "Shows your screen time stats.",
   "permissions": ["declarativeContent", "storage", "tabs"],
   "background": {
     "scripts": ["background.js"],
